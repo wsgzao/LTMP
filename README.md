@@ -1,86 +1,88 @@
+
 ![](http://i.v2ex.co/Up79Hq7l.jpeg)
 
-## Ç°ÑÔ
-ÏÖÔÚºÜ¶àÅóÓÑ¶¼ÁË½â»òÕßÒÑ¾­ÔÚÊ¹ÓÃLNMP¼Ü¹¹£¬Ò»°ã¿ÉÒÔÀí½âÎªLinux ShellÎªCentOS/RadHat/Fedora/Debian/Ubuntu/µÈÆ½Ì¨°²×°LNMP(Nginx/MySQL/PHP)£¬LNMPA(Nginx/MySQL/PHP/Apache)£¬LAMP(Apache/MySQL/PHP)µÈÀàËÆµÄ¿ª·¢»òÉú²ú»·¾³¡£ÎÒ×Ô¼ºÊÇ´ÓSuSE/OracleÉÌÒµ»¯»·¾³×ß³öÀ´µÄ£¬¶ÔÓÚ¿ªÔ´µÄ²¿Êğ·½°¸Ò²ÊÇÔÚÒ»µãÒ»µãÃşË÷£¬ÎÒÏàĞÅÆäÖĞÒ²±ØÈ»°üº¬Ä³Ğ©¿ÓµùµÄÅäÖÃ¡£ÕâÆªÎÄÕÂ½ÏÎªÏêÏ¸µÄÃèÊöÁË»ùÓÚLTMP¼Ü¹¹µÄ²¿Êğ¹ı³Ì£¬Ö®ºó»áÔÙ¿¼ÂÇ¶ÀÁ¢¸÷¸öÄ£¿é·ÖÏíÏ¸½ÚºÍ¼¼ÇÉ£¬Èç¹û´ó¼ÒÓĞ¸üºÏÊÊµÄÅäÖÃÊµ¼ùÊÖ²á»¶Ó­Ò»Æğ·ÖÏí£¬ÎÄÕÂÖĞµÄ´íÎóºÍ¸Ä½øµãÒ²Çë°ïÃ¦Ö¸µãÏÂ¹ş¡£
+## å‰è¨€
+ç°åœ¨å¾ˆå¤šæœ‹å‹éƒ½äº†è§£æˆ–è€…å·²ç»åœ¨ä½¿ç”¨LNMPæ¶æ„ï¼Œä¸€èˆ¬å¯ä»¥ç†è§£ä¸ºLinux Shellä¸ºCentOS/RadHat/Fedora/Debian/Ubuntu/ç­‰å¹³å°å®‰è£…LNMP(Nginx/MySQL/PHP)ï¼ŒLNMPA(Nginx/MySQL/PHP/Apache)ï¼ŒLAMP(Apache/MySQL/PHP)ç­‰ç±»ä¼¼çš„å¼€å‘æˆ–ç”Ÿäº§ç¯å¢ƒã€‚æˆ‘è‡ªå·±æ˜¯ä»SuSE/Oracleå•†ä¸šåŒ–ç¯å¢ƒèµ°å‡ºæ¥çš„ï¼Œå¯¹äºå¼€æºçš„éƒ¨ç½²æ–¹æ¡ˆä¹Ÿæ˜¯åœ¨ä¸€ç‚¹ä¸€ç‚¹æ‘¸ç´¢ï¼Œæˆ‘ç›¸ä¿¡å…¶ä¸­ä¹Ÿå¿…ç„¶åŒ…å«æŸäº›å‘çˆ¹çš„é…ç½®ã€‚è¿™ç¯‡æ–‡ç« è¾ƒä¸ºè¯¦ç»†çš„æè¿°äº†åŸºäºLTMPæ¶æ„çš„éƒ¨ç½²è¿‡ç¨‹ï¼Œä¹‹åä¼šå†è€ƒè™‘ç‹¬ç«‹å„ä¸ªæ¨¡å—åˆ†äº«ç»†èŠ‚å’ŒæŠ€å·§ï¼Œå¦‚æœå¤§å®¶æœ‰æ›´åˆé€‚çš„é…ç½®å®è·µæ‰‹å†Œæ¬¢è¿ä¸€èµ·åˆ†äº«ï¼Œæ–‡ç« ä¸­çš„é”™è¯¯å’Œæ”¹è¿›ç‚¹ä¹Ÿè¯·å¸®å¿™æŒ‡ç‚¹ä¸‹å“ˆã€‚
 
 >LTMP(CentOS/Tengine/MySQL/PHP)
 
 ---
 
-## ¸üĞÂÀúÊ·
+## æ›´æ–°å†å²
 
-2015Äê08ÔÂ04ÈÕ - ³õ¸å
+2015å¹´08æœˆ14æ—¥ - æ›´æ–°GitHubè‡ªåŠ¨éƒ¨ç½²æºç å’Œå®‰è£…åŒ…
+2015å¹´08æœˆ04æ—¥ - åˆç¨¿
 
-ÔÄ¶ÁÔ­ÎÄ - http://wsgzao.github.io/post/ltmp/
+é˜…è¯»åŸæ–‡ - http://wsgzao.github.io/post/ltmp/
 
-À©Õ¹ÔÄ¶Á
+æ‰©å±•é˜…è¯»
 
 CentOS - http://www.centos.org/
 Tengine - http://tengine.taobao.org/
 Nginx - http://nginx.org/en/docs/
 MySQL - http://www.mysql.com/
 PHP - http://php.net/
-LTMPË÷Òı - http://wsgzao.github.io/index/#LTMP
+LTMPç´¢å¼• - http://wsgzao.github.io/index/#LTMP
 
 
 ---
 
-## LTMP°æ±¾
+## LTMPç‰ˆæœ¬
 
 1. CentOS_6.5_64
 2. Tengine-2.1.0
 3. MySQL_5.6.25
 4. PHP_5.5.27
-5. Apache_2.2.31(½´ÓÍ)
+5. Apache_2.2.31(é…±æ²¹)
 
-##×¼±¸¹¤×÷
+##å‡†å¤‡å·¥ä½œ
 
->Èç¹ûÔÊĞí¹«Íø·ÃÎÊ»á·½±ãºÜ¶à
+>å¦‚æœå…è®¸å…¬ç½‘è®¿é—®ä¼šæ–¹ä¾¿å¾ˆå¤š
 
 ``` bash
-#ÓÅ»¯HistoryÀúÊ·¼ÇÂ¼
+#ä¼˜åŒ–Historyå†å²è®°å½•
 vi /etc/bashrc
 
-#ÉèÖÃ±£´æÀúÊ·ÃüÁîµÄÎÄ¼ş´óĞ¡
+#è®¾ç½®ä¿å­˜å†å²å‘½ä»¤çš„æ–‡ä»¶å¤§å°
 export HISTFILESIZE=1000000000
-#±£´æÀúÊ·ÃüÁîÌõÊı
+#ä¿å­˜å†å²å‘½ä»¤æ¡æ•°
 export HISTSIZE=1000000
-#ÊµÊ±¼ÇÂ¼ÀúÊ·ÃüÁî£¬Ä¬ÈÏÖ»ÓĞÔÚÓÃ»§ÍË³öÖ®ºó²Å»áÍ³Ò»¼ÇÂ¼£¬ºÜÈİÒ×Ôì³É¶à¸öÓÃ»§¼äµÄÏà»¥¸²¸Ç¡£
+#å®æ—¶è®°å½•å†å²å‘½ä»¤ï¼Œé»˜è®¤åªæœ‰åœ¨ç”¨æˆ·é€€å‡ºä¹‹åæ‰ä¼šç»Ÿä¸€è®°å½•ï¼Œå¾ˆå®¹æ˜“é€ æˆå¤šä¸ªç”¨æˆ·é—´çš„ç›¸äº’è¦†ç›–ã€‚
 export PROMPT_COMMAND="history -a"
-#¼ÇÂ¼Ã¿ÌõÀúÊ·ÃüÁîµÄÖ´ĞĞÊ±¼ä
+#è®°å½•æ¯æ¡å†å²å‘½ä»¤çš„æ‰§è¡Œæ—¶é—´
 export HISTTIMEFORMAT="%Y-%m-%d_%H:%M:%S "
 
-#ÉèÖÃÊ±Çø£¨¿ÉÑ¡£©
+#è®¾ç½®æ—¶åŒºï¼ˆå¯é€‰ï¼‰
 rm -rf /etc/localtime
 ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 
-#½ûÓÃNetworkManager£¨¿ÉÑ¡£©
+#ç¦ç”¨NetworkManagerï¼ˆå¯é€‰ï¼‰
 /etc/init.d/NetworkManager stop
 chkconfig NetworkManager off
 /etc/init.d/network restart
 
-#¹Ø±Õiptables£¨¿ÉÑ¡£© 
+#å…³é—­iptablesï¼ˆå¯é€‰ï¼‰ 
 /etc/init.d/iptables stop
 chkconfig iptables off
 
-#ÉèÖÃdns£¨¿ÉÑ¡£©
+#è®¾ç½®dnsï¼ˆå¯é€‰ï¼‰
 echo "nameserver 114.114.114.114" > /etc/resolv.conf 
 
-#¹Ø±Õmaildrop
+#å…³é—­maildrop
 #cd /var/spool/postfix/maildrop;ls | xargs rm -rf; 
 sed 's/MAILTO=root/MAILTO=""/g' /etc/crontab
 service crond restart
 
-#¹Ø±Õselinux
+#å…³é—­selinux
 setenforce 0
 sed -i 's/SELINUX=enforcing/SELINUX=disabled/' /etc/selinux/config  
 
 
-#ÎÄ¼ş´ò¿ªÊıÁ¿£¬
+#æ–‡ä»¶æ‰“å¼€æ•°é‡ï¼Œ
 echo ulimit -SHn 65535 >> /etc/profile
 source /etc/profile
 
-#ĞŞ¸Ä×î´ó½ø³ÌºÍ×î´óÎÄ¼ş´ò¿ªÊıÏŞÖÆ
+#ä¿®æ”¹æœ€å¤§è¿›ç¨‹å’Œæœ€å¤§æ–‡ä»¶æ‰“å¼€æ•°é™åˆ¶
 vi /etc/security/limits.conf
 * soft nproc 11000
 * hard nproc 11000
@@ -89,77 +91,77 @@ vi /etc/security/limits.conf
 
 sed -i -e '/# End of file/i\* soft  nofile 65535\n* hard nofile 65535'  /etc/security/limits.conf
 
-#ÓÅ»¯TCP
+#ä¼˜åŒ–TCP
 vi /etc/sysctl.conf
 
-#½ûÓÃ°ü¹ıÂË¹¦ÄÜ 
+#ç¦ç”¨åŒ…è¿‡æ»¤åŠŸèƒ½ 
 net.ipv4.ip_forward = 0  
-#ÆôÓÃÔ´Â·ÓÉºË²é¹¦ÄÜ 
+#å¯ç”¨æºè·¯ç”±æ ¸æŸ¥åŠŸèƒ½ 
 net.ipv4.conf.default.rp_filter = 1  
-#½ûÓÃËùÓĞIPÔ´Â·ÓÉ 
+#ç¦ç”¨æ‰€æœ‰IPæºè·¯ç”± 
 net.ipv4.conf.default.accept_source_route = 0  
-#Ê¹ÓÃsysrq×éºÏ¼üÊÇÁË½âÏµÍ³Ä¿Ç°ÔËĞĞÇé¿ö£¬Îª°²È«Æğ¼ûÉèÎª0¹Ø±Õ
+#ä½¿ç”¨sysrqç»„åˆé”®æ˜¯äº†è§£ç³»ç»Ÿç›®å‰è¿è¡Œæƒ…å†µï¼Œä¸ºå®‰å…¨èµ·è§è®¾ä¸º0å…³é—­
 kernel.sysrq = 0  
-#¿ØÖÆcoreÎÄ¼şµÄÎÄ¼şÃûÊÇ·ñÌí¼Ópid×÷ÎªÀ©Õ¹
+#æ§åˆ¶coreæ–‡ä»¶çš„æ–‡ä»¶åæ˜¯å¦æ·»åŠ pidä½œä¸ºæ‰©å±•
 kernel.core_uses_pid = 1  
-#¿ªÆôSYN Cookies£¬µ±³öÏÖSYNµÈ´ı¶ÓÁĞÒç³öÊ±£¬ÆôÓÃcookiesÀ´´¦Àí
+#å¼€å¯SYN Cookiesï¼Œå½“å‡ºç°SYNç­‰å¾…é˜Ÿåˆ—æº¢å‡ºæ—¶ï¼Œå¯ç”¨cookiesæ¥å¤„ç†
 net.ipv4.tcp_syncookies = 1  
-#Ã¿¸öÏûÏ¢¶ÓÁĞµÄ´óĞ¡£¨µ¥Î»£º×Ö½Ú£©ÏŞÖÆ
+#æ¯ä¸ªæ¶ˆæ¯é˜Ÿåˆ—çš„å¤§å°ï¼ˆå•ä½ï¼šå­—èŠ‚ï¼‰é™åˆ¶
 kernel.msgmnb = 65536  
-#Õû¸öÏµÍ³×î´óÏûÏ¢¶ÓÁĞÊıÁ¿ÏŞÖÆ
+#æ•´ä¸ªç³»ç»Ÿæœ€å¤§æ¶ˆæ¯é˜Ÿåˆ—æ•°é‡é™åˆ¶
 kernel.msgmax = 65536  
-#µ¥¸ö¹²ÏíÄÚ´æ¶ÎµÄ´óĞ¡£¨µ¥Î»£º×Ö½Ú£©ÏŞÖÆ£¬¼ÆËã¹«Ê½64G*1024*1024*1024(×Ö½Ú)
+#å•ä¸ªå…±äº«å†…å­˜æ®µçš„å¤§å°ï¼ˆå•ä½ï¼šå­—èŠ‚ï¼‰é™åˆ¶ï¼Œè®¡ç®—å…¬å¼64G*1024*1024*1024(å­—èŠ‚)
 kernel.shmmax = 68719476736  
-#ËùÓĞÄÚ´æ´óĞ¡£¨µ¥Î»£ºÒ³£¬1Ò³ = 4Kb£©£¬¼ÆËã¹«Ê½16G*1024*1024*1024/4KB(Ò³)
+#æ‰€æœ‰å†…å­˜å¤§å°ï¼ˆå•ä½ï¼šé¡µï¼Œ1é¡µ = 4Kbï¼‰ï¼Œè®¡ç®—å…¬å¼16G*1024*1024*1024/4KB(é¡µ)
 kernel.shmall = 4294967296  
-#timewaitµÄÊıÁ¿£¬Ä¬ÈÏÊÇ180000
+#timewaitçš„æ•°é‡ï¼Œé»˜è®¤æ˜¯180000
 net.ipv4.tcp_max_tw_buckets = 6000  
-#¿ªÆôÓĞÑ¡ÔñµÄÓ¦´ğ
+#å¼€å¯æœ‰é€‰æ‹©çš„åº”ç­”
 net.ipv4.tcp_sack = 1  
-#Ö§³Ö¸ü´óµÄTCP´°¿Ú. Èç¹ûTCP´°¿Ú×î´ó³¬¹ı65535(64K), ±ØĞëÉèÖÃ¸ÃÊıÖµÎª1
+#æ”¯æŒæ›´å¤§çš„TCPçª—å£. å¦‚æœTCPçª—å£æœ€å¤§è¶…è¿‡65535(64K), å¿…é¡»è®¾ç½®è¯¥æ•°å€¼ä¸º1
 net.ipv4.tcp_window_scaling = 1  
-#TCP¶Ábuffer
+#TCPè¯»buffer
 net.ipv4.tcp_rmem = 4096 131072 1048576
-#TCPĞ´buffer
+#TCPå†™buffer
 net.ipv4.tcp_wmem = 4096 131072 1048576   
-#ÎªTCP socketÔ¤ÁôÓÃÓÚ·¢ËÍ»º³åµÄÄÚ´æÄ¬ÈÏÖµ£¨µ¥Î»£º×Ö½Ú£©
+#ä¸ºTCP socketé¢„ç•™ç”¨äºå‘é€ç¼“å†²çš„å†…å­˜é»˜è®¤å€¼ï¼ˆå•ä½ï¼šå­—èŠ‚ï¼‰
 net.core.wmem_default = 8388608
-#ÎªTCP socketÔ¤ÁôÓÃÓÚ·¢ËÍ»º³åµÄÄÚ´æ×î´óÖµ£¨µ¥Î»£º×Ö½Ú£©
+#ä¸ºTCP socketé¢„ç•™ç”¨äºå‘é€ç¼“å†²çš„å†…å­˜æœ€å¤§å€¼ï¼ˆå•ä½ï¼šå­—èŠ‚ï¼‰
 net.core.wmem_max = 16777216  
-#ÎªTCP socketÔ¤ÁôÓÃÓÚ½ÓÊÕ»º³åµÄÄÚ´æÄ¬ÈÏÖµ£¨µ¥Î»£º×Ö½Ú£©  
+#ä¸ºTCP socketé¢„ç•™ç”¨äºæ¥æ”¶ç¼“å†²çš„å†…å­˜é»˜è®¤å€¼ï¼ˆå•ä½ï¼šå­—èŠ‚ï¼‰  
 net.core.rmem_default = 8388608
-#ÎªTCP socketÔ¤ÁôÓÃÓÚ½ÓÊÕ»º³åµÄÄÚ´æ×î´óÖµ£¨µ¥Î»£º×Ö½Ú£©
+#ä¸ºTCP socketé¢„ç•™ç”¨äºæ¥æ”¶ç¼“å†²çš„å†…å­˜æœ€å¤§å€¼ï¼ˆå•ä½ï¼šå­—èŠ‚ï¼‰
 net.core.rmem_max = 16777216
-#Ã¿¸öÍøÂç½Ó¿Ú½ÓÊÕÊı¾İ°üµÄËÙÂÊ±ÈÄÚºË´¦ÀíÕâĞ©°üµÄËÙÂÊ¿ìÊ±£¬ÔÊĞíËÍµ½¶ÓÁĞµÄÊı¾İ°üµÄ×î´óÊıÄ¿
+#æ¯ä¸ªç½‘ç»œæ¥å£æ¥æ”¶æ•°æ®åŒ…çš„é€Ÿç‡æ¯”å†…æ ¸å¤„ç†è¿™äº›åŒ…çš„é€Ÿç‡å¿«æ—¶ï¼Œå…è®¸é€åˆ°é˜Ÿåˆ—çš„æ•°æ®åŒ…çš„æœ€å¤§æ•°ç›®
 net.core.netdev_max_backlog = 262144  
-#webÓ¦ÓÃÖĞlistenº¯ÊıµÄbacklogÄ¬ÈÏ»á¸øÎÒÃÇÄÚºË²ÎÊıµÄnet.core.somaxconnÏŞÖÆµ½128£¬¶ønginx¶¨ÒåµÄNGX_LISTEN_BACKLOGÄ¬ÈÏÎª511£¬ËùÒÔÓĞ±ØÒªµ÷ÕûÕâ¸öÖµ
+#webåº”ç”¨ä¸­listenå‡½æ•°çš„backlogé»˜è®¤ä¼šç»™æˆ‘ä»¬å†…æ ¸å‚æ•°çš„net.core.somaxconné™åˆ¶åˆ°128ï¼Œè€Œnginxå®šä¹‰çš„NGX_LISTEN_BACKLOGé»˜è®¤ä¸º511ï¼Œæ‰€ä»¥æœ‰å¿…è¦è°ƒæ•´è¿™ä¸ªå€¼
 net.core.somaxconn = 262144  
-#ÏµÍ³ÖĞ×î¶àÓĞ¶àÉÙ¸öTCPÌ×½Ó×Ö²»±»¹ØÁªµ½ÈÎºÎÒ»¸öÓÃ»§ÎÄ¼ş¾ä±úÉÏ¡£Õâ¸öÏŞÖÆ½ö½öÊÇÎªÁË·ÀÖ¹¼òµ¥µÄDoS¹¥»÷£¬²»ÄÜ¹ı·ÖÒÀ¿¿Ëü»òÕßÈËÎªµØ¼õĞ¡Õâ¸öÖµ£¬¸üÓ¦¸ÃÔö¼ÓÕâ¸öÖµ(Èç¹ûÔö¼ÓÁËÄÚ´æÖ®ºó)
+#ç³»ç»Ÿä¸­æœ€å¤šæœ‰å¤šå°‘ä¸ªTCPå¥—æ¥å­—ä¸è¢«å…³è”åˆ°ä»»ä½•ä¸€ä¸ªç”¨æˆ·æ–‡ä»¶å¥æŸ„ä¸Šã€‚è¿™ä¸ªé™åˆ¶ä»…ä»…æ˜¯ä¸ºäº†é˜²æ­¢ç®€å•çš„DoSæ”»å‡»ï¼Œä¸èƒ½è¿‡åˆ†ä¾é å®ƒæˆ–è€…äººä¸ºåœ°å‡å°è¿™ä¸ªå€¼ï¼Œæ›´åº”è¯¥å¢åŠ è¿™ä¸ªå€¼(å¦‚æœå¢åŠ äº†å†…å­˜ä¹‹å)
 net.ipv4.tcp_max_orphans = 3276800  
-#¼ÇÂ¼µÄÄÇĞ©ÉĞÎ´ÊÕµ½¿Í»§¶ËÈ·ÈÏĞÅÏ¢µÄÁ¬½ÓÇëÇóµÄ×î´óÖµ¡£¶ÔÓÚÓĞ128MÄÚ´æµÄÏµÍ³¶øÑÔ£¬È±Ê¡ÖµÊÇ1024£¬Ğ¡ÄÚ´æµÄÏµÍ³ÔòÊÇ128
+#è®°å½•çš„é‚£äº›å°šæœªæ”¶åˆ°å®¢æˆ·ç«¯ç¡®è®¤ä¿¡æ¯çš„è¿æ¥è¯·æ±‚çš„æœ€å¤§å€¼ã€‚å¯¹äºæœ‰128Må†…å­˜çš„ç³»ç»Ÿè€Œè¨€ï¼Œç¼ºçœå€¼æ˜¯1024ï¼Œå°å†…å­˜çš„ç³»ç»Ÿåˆ™æ˜¯128
 net.ipv4.tcp_max_syn_backlog = 262144  
-#Ê±¼ä´Á¿ÉÒÔ±ÜÃâĞòÁĞºÅµÄ¾íÈÆ¡£Ò»¸ö1GbpsµÄÁ´Â·¿Ï¶¨»áÓöµ½ÒÔÇ°ÓÃ¹ıµÄĞòÁĞºÅ¡£Ê±¼ä´ÁÄÜ¹»ÈÃÄÚºË½ÓÊÜÕâÖÖ¡°Òì³£¡±µÄÊı¾İ°ü¡£ÕâÀïĞèÒª½«Æä¹Øµô
+#æ—¶é—´æˆ³å¯ä»¥é¿å…åºåˆ—å·çš„å·ç»•ã€‚ä¸€ä¸ª1Gbpsçš„é“¾è·¯è‚¯å®šä¼šé‡åˆ°ä»¥å‰ç”¨è¿‡çš„åºåˆ—å·ã€‚æ—¶é—´æˆ³èƒ½å¤Ÿè®©å†…æ ¸æ¥å—è¿™ç§â€œå¼‚å¸¸â€çš„æ•°æ®åŒ…ã€‚è¿™é‡Œéœ€è¦å°†å…¶å…³æ‰
 net.ipv4.tcp_timestamps = 0  
-#ÎªÁË´ò¿ª¶Ô¶ËµÄÁ¬½Ó£¬ÄÚºËĞèÒª·¢ËÍÒ»¸öSYN²¢¸½´øÒ»¸ö»ØÓ¦Ç°ÃæÒ»¸öSYNµÄACK¡£Ò²¾ÍÊÇËùÎ½Èı´ÎÎÕÊÖÖĞµÄµÚ¶ş´ÎÎÕÊÖ¡£Õâ¸öÉèÖÃ¾ö¶¨ÁËÄÚºË·ÅÆúÁ¬½ÓÖ®Ç°·¢ËÍSYN+ACK°üµÄÊıÁ¿
+#ä¸ºäº†æ‰“å¼€å¯¹ç«¯çš„è¿æ¥ï¼Œå†…æ ¸éœ€è¦å‘é€ä¸€ä¸ªSYNå¹¶é™„å¸¦ä¸€ä¸ªå›åº”å‰é¢ä¸€ä¸ªSYNçš„ACKã€‚ä¹Ÿå°±æ˜¯æ‰€è°“ä¸‰æ¬¡æ¡æ‰‹ä¸­çš„ç¬¬äºŒæ¬¡æ¡æ‰‹ã€‚è¿™ä¸ªè®¾ç½®å†³å®šäº†å†…æ ¸æ”¾å¼ƒè¿æ¥ä¹‹å‰å‘é€SYN+ACKåŒ…çš„æ•°é‡
 net.ipv4.tcp_synack_retries = 1  
-#ÔÚÄÚºË·ÅÆú½¨Á¢Á¬½ÓÖ®Ç°·¢ËÍSYN°üµÄÊıÁ¿
+#åœ¨å†…æ ¸æ”¾å¼ƒå»ºç«‹è¿æ¥ä¹‹å‰å‘é€SYNåŒ…çš„æ•°é‡
 net.ipv4.tcp_syn_retries = 1  
-#¿ªÆôTCPÁ¬½ÓÖĞtime_wait socketsµÄ¿ìËÙ»ØÊÕ
+#å¼€å¯TCPè¿æ¥ä¸­time_wait socketsçš„å¿«é€Ÿå›æ”¶
 net.ipv4.tcp_tw_recycle = 1  
-#¿ªÆôTCPÁ¬½Ó¸´ÓÃ¹¦ÄÜ£¬ÔÊĞí½«time_wait socketsÖØĞÂÓÃÓÚĞÂµÄTCPÁ¬½Ó£¨Ö÷ÒªÕë¶Ôtime_waitÁ¬½Ó£©
+#å¼€å¯TCPè¿æ¥å¤ç”¨åŠŸèƒ½ï¼Œå…è®¸å°†time_wait socketsé‡æ–°ç”¨äºæ–°çš„TCPè¿æ¥ï¼ˆä¸»è¦é’ˆå¯¹time_waitè¿æ¥ï¼‰
 net.ipv4.tcp_tw_reuse = 1  
-#1stµÍÓÚ´ËÖµ,TCPÃ»ÓĞÄÚ´æÑ¹Á¦,2nd½øÈëÄÚ´æÑ¹Á¦½×¶Î,3rdTCP¾Ü¾ø·ÖÅäsocket(µ¥Î»£ºÄÚ´æÒ³)
+#1stä½äºæ­¤å€¼,TCPæ²¡æœ‰å†…å­˜å‹åŠ›,2ndè¿›å…¥å†…å­˜å‹åŠ›é˜¶æ®µ,3rdTCPæ‹’ç»åˆ†é…socket(å•ä½ï¼šå†…å­˜é¡µ)
 net.ipv4.tcp_mem = 94500000 915000000 927000000   
-#Èç¹ûÌ×½Ó×ÖÓÉ±¾¶ËÒªÇó¹Ø±Õ£¬Õâ¸ö²ÎÊı¾ö¶¨ÁËËü±£³ÖÔÚFIN-WAIT-2×´Ì¬µÄÊ±¼ä¡£¶Ô¶Ë¿ÉÒÔ³ö´í²¢ÓÀÔ¶²»¹Ø±ÕÁ¬½Ó£¬ÉõÖÁÒâÍâµ±»ú¡£È±Ê¡ÖµÊÇ60 Ãë¡£2.2 ÄÚºËµÄÍ¨³£ÖµÊÇ180Ãë£¬Äã¿ÉÒÔ°´Õâ¸öÉèÖÃ£¬µ«Òª¼Ç×¡µÄÊÇ£¬¼´Ê¹ÄãµÄ»úÆ÷ÊÇÒ»¸öÇáÔØµÄWEB·şÎñÆ÷£¬Ò²ÓĞÒòÎª´óÁ¿µÄËÀÌ×½Ó×Ö¶øÄÚ´æÒç³öµÄ·çÏÕ£¬FIN- WAIT-2µÄÎ£ÏÕĞÔ±ÈFIN-WAIT-1ÒªĞ¡£¬ÒòÎªËü×î¶àÖ»ÄÜ³Ôµô1.5KÄÚ´æ£¬µ«ÊÇËüÃÇµÄÉú´æÆÚ³¤Ğ©¡£
+#å¦‚æœå¥—æ¥å­—ç”±æœ¬ç«¯è¦æ±‚å…³é—­ï¼Œè¿™ä¸ªå‚æ•°å†³å®šäº†å®ƒä¿æŒåœ¨FIN-WAIT-2çŠ¶æ€çš„æ—¶é—´ã€‚å¯¹ç«¯å¯ä»¥å‡ºé”™å¹¶æ°¸è¿œä¸å…³é—­è¿æ¥ï¼Œç”šè‡³æ„å¤–å½“æœºã€‚ç¼ºçœå€¼æ˜¯60 ç§’ã€‚2.2 å†…æ ¸çš„é€šå¸¸å€¼æ˜¯180ç§’ï¼Œä½ å¯ä»¥æŒ‰è¿™ä¸ªè®¾ç½®ï¼Œä½†è¦è®°ä½çš„æ˜¯ï¼Œå³ä½¿ä½ çš„æœºå™¨æ˜¯ä¸€ä¸ªè½»è½½çš„WEBæœåŠ¡å™¨ï¼Œä¹Ÿæœ‰å› ä¸ºå¤§é‡çš„æ­»å¥—æ¥å­—è€Œå†…å­˜æº¢å‡ºçš„é£é™©ï¼ŒFIN- WAIT-2çš„å±é™©æ€§æ¯”FIN-WAIT-1è¦å°ï¼Œå› ä¸ºå®ƒæœ€å¤šåªèƒ½åƒæ‰1.5Kå†…å­˜ï¼Œä½†æ˜¯å®ƒä»¬çš„ç”Ÿå­˜æœŸé•¿äº›ã€‚
 net.ipv4.tcp_fin_timeout = 15  
-#±íÊ¾µ±keepaliveÆğÓÃµÄÊ±ºò£¬TCP·¢ËÍkeepaliveÏûÏ¢µÄÆµ¶È£¨µ¥Î»£ºÃë£©
+#è¡¨ç¤ºå½“keepaliveèµ·ç”¨çš„æ—¶å€™ï¼ŒTCPå‘é€keepaliveæ¶ˆæ¯çš„é¢‘åº¦ï¼ˆå•ä½ï¼šç§’ï¼‰
 net.ipv4.tcp_keepalive_time = 30  
-#¶ÔÍâÁ¬½Ó¶Ë¿Ú·¶Î§
+#å¯¹å¤–è¿æ¥ç«¯å£èŒƒå›´
 net.ipv4.ip_local_port_range = 2048 65000
-#±íÊ¾ÎÄ¼ş¾ä±úµÄ×î´óÊıÁ¿
+#è¡¨ç¤ºæ–‡ä»¶å¥æŸ„çš„æœ€å¤§æ•°é‡
 fs.file-max = 102400
 
-#ÔÆÖ÷»úÉÏµÄÓÅ»¯
+#äº‘ä¸»æœºä¸Šçš„ä¼˜åŒ–
 
 # Kernel sysctl configuration file for Red Hat Linux
 #
@@ -229,36 +231,36 @@ net.ipv4.conf.default.accept_redirects = 0
 
 /sbin/sysctl -p
 
-#×Ô¶¯Ñ¡Ôñ×î¿ìµÄyumÔ´
+#è‡ªåŠ¨é€‰æ‹©æœ€å¿«çš„yumæº
 yum -y install yum-fastestmirror
 
-#ÒÆ³ıÏµÍ³×Ô´øµÄrpm°üµÄhttp mysql php
+#ç§»é™¤ç³»ç»Ÿè‡ªå¸¦çš„rpmåŒ…çš„http mysql php
 #yum remove httpd* php*
 yum remove httpd mysql mysql-server php php-cli php-common php-devel php-gd  -y
 
-#Éı¼¶»ù´¡¿â
+#å‡çº§åŸºç¡€åº“
 yum install -y wget gcc gcc-c++ openssl* curl curl-devel libxml2 libxml2-devel glibc glibc-devel glib2 glib2-devel gd gd2 gd-devel gd2-devel libaio autoconf libjpeg libjpeg-devel libpng libpng-devel freetype freetype-devel 
 
-#yum°²×°»ù´¡±Ø±¸»·¾³°ü£¬¿ÉÒÔÏÈ½«yumÔ´¸ü»»Îª°¢ÀïÔÆµÄÔ´
-°¢Àï£ºhttp://mirrors.aliyun.com/ 
-ËÑºü£ºhttp://mirrors.sohu.com/ 
-ÍøÒ×£ºhttp://mirrors.163.com/
+#yumå®‰è£…åŸºç¡€å¿…å¤‡ç¯å¢ƒåŒ…ï¼Œå¯ä»¥å…ˆå°†yumæºæ›´æ¢ä¸ºé˜¿é‡Œäº‘çš„æº
+é˜¿é‡Œï¼šhttp://mirrors.aliyun.com/ 
+æœç‹ï¼šhttp://mirrors.sohu.com/ 
+ç½‘æ˜“ï¼šhttp://mirrors.163.com/
 
-#±¸·İÔ­ÏÈµÄyumÔ´ĞÅÏ¢
+#å¤‡ä»½åŸå…ˆçš„yumæºä¿¡æ¯
 mv /etc/yum.repos.d/CentOS-Base.repo /etc/yum.repos.d/CentOS-Base.repo.backup
 
-#´Ó°¢ÀïÔÆ¾µÏñÕ¾ÏÂÔØcentos6µÄrepo
+#ä»é˜¿é‡Œäº‘é•œåƒç«™ä¸‹è½½centos6çš„repo
 wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-6.repo
 
-#×îºóyumÖØĞÂÉú³É»º´æ
+#æœ€åyumé‡æ–°ç”Ÿæˆç¼“å­˜
 yum makecache
 
-#yum°²×°Èí¼ş°ü£¨¿ÉÑ¡£©
+#yumå®‰è£…è½¯ä»¶åŒ…ï¼ˆå¯é€‰ï¼‰
 yum -y install tar zip unzip openssl* gd gd-devel gcc gcc-c++ autoconf libjpeg libjpeg-devel libpng libpng-devel freetype freetype-devel libxml2 libxml2-devel zlib zlib-devel glibc glibc-devel glib2 glib2-devel bzip2 bzip2-devel ncurses ncurses-devel curl curl-devel e2fsprogs e2fsprogs-devel krb5 krb5-devel libidn libidn-devel openssl openssl-devel openldap openldap-devel openldap-clients openldap-servers make libmcrypt libmcrypt-devel fontconfig fontconfig-devel libXpm* libtool* libxml2 libxml2-devel t1lib t1lib-devel
 
 
 
-#¶¨ÒåÄ¿Â¼½á¹¹£¬ÏÂÔØ°²×°°ü
+#å®šä¹‰ç›®å½•ç»“æ„ï¼Œä¸‹è½½å®‰è£…åŒ…
 mkdir -p /app/{local,data}
 cd /app/local
 
@@ -279,9 +281,9 @@ wget "http://downloads.sourceforge.net/mcrypt/mcrypt-2.6.8.tar.gz"
 
 ```
 
-## ÅäÖÃTengine
+## é…ç½®Tengine
 
-### °²×°PCRE
+### å®‰è£…PCRE
 
 ``` bash
 tar zxvf pcre-8.37.tar.gz
@@ -292,13 +294,13 @@ cd ../
 
 ```
 
-## °²×°Tengine
+## å®‰è£…Tengine
 
 ``` bash
-#Ìí¼ÓwwwÓÃ»§ºÍ×é
+#æ·»åŠ wwwç”¨æˆ·å’Œç»„
 groupadd www
 useradd -g www www
-#°²×°Tengine
+#å®‰è£…Tengine
 tar zxvf tengine-2.1.0.tar.gz
 cd tengine-2.1.0
 
@@ -313,166 +315,166 @@ cd ../
 
 ```
 
-### ÅäÖÃNginx
+### é…ç½®Nginx
 
->NginxÅäÖÃÎÄ¼şµÄÓÅ»¯ºÜÖØÒª£¬Àí½âÃ¿Ò»²½µÄÒâÒå
+>Nginxé…ç½®æ–‡ä»¶çš„ä¼˜åŒ–å¾ˆé‡è¦ï¼Œç†è§£æ¯ä¸€æ­¥çš„æ„ä¹‰
 
 ``` bash
-#ĞŞ¸Änginx.conf
+#ä¿®æ”¹nginx.conf
 vi /app/local/nginx/conf/nginx.conf
 
-#ÓÃ»§ºÍÓÃ»§×é
+#ç”¨æˆ·å’Œç”¨æˆ·ç»„
 user  www www;
-#¹¤×÷½ø³Ì£¬Ò»°ã¿ÉÒÔ°´CPUºËÊıÉè¶¨
+#å·¥ä½œè¿›ç¨‹ï¼Œä¸€èˆ¬å¯ä»¥æŒ‰CPUæ ¸æ•°è®¾å®š
 worker_processes  auto;
 worker_cpu_affinity auto;
-#È«¾Ö´íÎóÈÕÖ¾¼¶±ğ
+#å…¨å±€é”™è¯¯æ—¥å¿—çº§åˆ«
 # [ debug | info | notice | warn | error | crit ]
 error_log  logs/error.log  error;
-#PIDÎÄ¼şÎ»ÖÃ
+#PIDæ–‡ä»¶ä½ç½®
 pid  logs/nginx.pid;
-#¸ü¸Äworker½ø³ÌµÄ×î´ó´ò¿ªÎÄ¼şÊıÏŞÖÆ£¬±ÜÃâ"too many open files"
+#æ›´æ”¹workerè¿›ç¨‹çš„æœ€å¤§æ‰“å¼€æ–‡ä»¶æ•°é™åˆ¶ï¼Œé¿å…"too many open files"
 worker_rlimit_nofile 65535;
 
-#eventsÊÂ¼şÖ¸ÁîÊÇÉè¶¨NginxµÄ¹¤×÷Ä£Ê½¼°Á¬½ÓÊıÉÏÏŞ
+#eventsäº‹ä»¶æŒ‡ä»¤æ˜¯è®¾å®šNginxçš„å·¥ä½œæ¨¡å¼åŠè¿æ¥æ•°ä¸Šé™
 events{
-     #epollÊÇLinuxÊ×Ñ¡µÄ¸ßĞ§¹¤×÷Ä£Ê½
+     #epollæ˜¯Linuxé¦–é€‰çš„é«˜æ•ˆå·¥ä½œæ¨¡å¼
      use epoll;
-     #¸æËßnginxÊÕµ½Ò»¸öĞÂÁ¬½ÓÍ¨Öªºó½ÓÊÜ¾¡¿ÉÄÜ¶àµÄÁ¬½Ó
+     #å‘Šè¯‰nginxæ”¶åˆ°ä¸€ä¸ªæ–°è¿æ¥é€šçŸ¥åæ¥å—å°½å¯èƒ½å¤šçš„è¿æ¥
      multi_accept on;
-     #ÓÃÓÚ¶¨ÒåNginxÃ¿¸ö½ø³ÌµÄ×î´óÁ¬½ÓÊı
+     #ç”¨äºå®šä¹‰Nginxæ¯ä¸ªè¿›ç¨‹çš„æœ€å¤§è¿æ¥æ•°
      worker_connections      65536;
 }
 
-#HTTPÄ£¿é¿ØÖÆ×Ånginx http´¦ÀíµÄËùÓĞºËĞÄÌØĞÔ
+#HTTPæ¨¡å—æ§åˆ¶ç€nginx httpå¤„ç†çš„æ‰€æœ‰æ ¸å¿ƒç‰¹æ€§
 http {
     include       mime.types;
-    #ÉèÖÃÎÄ¼şÊ¹ÓÃµÄÄ¬ÈÏµÄMIME-type
+    #è®¾ç½®æ–‡ä»¶ä½¿ç”¨çš„é»˜è®¤çš„MIME-type
     default_type  application/octet-stream;
     
 
-    #¶ÔÈÕÖ¾¸ñÊ½µÄÉè¶¨£¬mainÎªÈÕÖ¾¸ñÊ½±ğÃû
+    #å¯¹æ—¥å¿—æ ¼å¼çš„è®¾å®šï¼Œmainä¸ºæ—¥å¿—æ ¼å¼åˆ«å
     log_format  main  '$remote_addr - $remote_user [$time_local] "$request" '
                       '$status $body_bytes_sent "$http_referer" '
                       '"$http_user_agent" "$http_x_forwarded_for"';
-    #ÉèÖÃnginxÊÇ·ñ½«´æ´¢·ÃÎÊÈÕÖ¾¡£¹Ø±ÕÕâ¸öÑ¡Ïî¿ÉÒÔÈÃ¶ÁÈ¡´ÅÅÌIO²Ù×÷¸ü¿ì
+    #è®¾ç½®nginxæ˜¯å¦å°†å­˜å‚¨è®¿é—®æ—¥å¿—ã€‚å…³é—­è¿™ä¸ªé€‰é¡¹å¯ä»¥è®©è¯»å–ç£ç›˜IOæ“ä½œæ›´å¿«
     access_log off;
     # access_log logs/access.log main buffer=16k;
 
-    #¿ªÆôgzipÑ¹Ëõ£¬ÊµÊ±Ñ¹ËõÊä³öÊı¾İÁ÷
+    #å¼€å¯gzipå‹ç¼©ï¼Œå®æ—¶å‹ç¼©è¾“å‡ºæ•°æ®æµ
     gzip on;
-    #ÉèÖÃIE6»òÕß¸üµÍ°æ±¾½ûÓÃgzip¹¦ÄÜ
+    #è®¾ç½®IE6æˆ–è€…æ›´ä½ç‰ˆæœ¬ç¦ç”¨gzipåŠŸèƒ½
     gzip_disable "MSIE [1-6]\.";
-    #Ç°¶ËµÄ»º´æ·şÎñÆ÷»º´æ¾­¹ıgzipÑ¹ËõµÄÒ³Ãæ
+    #å‰ç«¯çš„ç¼“å­˜æœåŠ¡å™¨ç¼“å­˜ç»è¿‡gzipå‹ç¼©çš„é¡µé¢
     gzip_vary on;
-    #ÔÊĞíÑ¹Ëõ»ùÓÚÇëÇóºÍÏìÓ¦µÄÏìÓ¦Á÷
+    #å…è®¸å‹ç¼©åŸºäºè¯·æ±‚å’Œå“åº”çš„å“åº”æµ
     gzip_proxied any;
-    #ÉèÖÃÊı¾İµÄÑ¹ËõµÈ¼¶
+    #è®¾ç½®æ•°æ®çš„å‹ç¼©ç­‰çº§
     gzip_comp_level 4;
-    #ÉèÖÃ¶ÔÊı¾İÆôÓÃÑ¹ËõµÄ×îÉÙ×Ö½ÚÊı
+    #è®¾ç½®å¯¹æ•°æ®å¯ç”¨å‹ç¼©çš„æœ€å°‘å­—èŠ‚æ•°
     gzip_min_length 1k;
-    #±íÊ¾ÉêÇë16¸öµ¥Î»Îª64KµÄÄÚ´æ×÷ÎªÑ¹Ëõ½á¹ûÁ÷»º´æ
+    #è¡¨ç¤ºç”³è¯·16ä¸ªå•ä½ä¸º64Kçš„å†…å­˜ä½œä¸ºå‹ç¼©ç»“æœæµç¼“å­˜
     gzip_buffers 16 64k;
-    #ÓÃÓÚÉèÖÃÊ¶±ğHTTPĞ­Òé°æ±¾
+    #ç”¨äºè®¾ç½®è¯†åˆ«HTTPåè®®ç‰ˆæœ¬
     gzip_http_version 1.1;
-    #ÓÃÀ´Ö¸¶¨Ñ¹ËõµÄÀàĞÍ
+    #ç”¨æ¥æŒ‡å®šå‹ç¼©çš„ç±»å‹
     gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript;
      
 
-    #´ò¿ª»º´æµÄÍ¬Ê±Ò²Ö¸¶¨ÁË»º´æ×î´óÊıÄ¿£¬ÒÔ¼°»º´æµÄÊ±¼ä
+    #æ‰“å¼€ç¼“å­˜çš„åŒæ—¶ä¹ŸæŒ‡å®šäº†ç¼“å­˜æœ€å¤§æ•°ç›®ï¼Œä»¥åŠç¼“å­˜çš„æ—¶é—´
     open_file_cache max=200000 inactive=20s;
-    #ÔÚopen_file_cacheÖĞÖ¸¶¨¼ì²âÕıÈ·ĞÅÏ¢µÄ¼ä¸ôÊ±¼ä
+    #åœ¨open_file_cacheä¸­æŒ‡å®šæ£€æµ‹æ­£ç¡®ä¿¡æ¯çš„é—´éš”æ—¶é—´
     open_file_cache_valid 30s;
-    #¶¨ÒåÁËopen_file_cacheÖĞÖ¸Áî²ÎÊı²»»î¶¯Ê±¼äÆÚ¼äÀï×îĞ¡µÄÎÄ¼şÊı
+    #å®šä¹‰äº†open_file_cacheä¸­æŒ‡ä»¤å‚æ•°ä¸æ´»åŠ¨æ—¶é—´æœŸé—´é‡Œæœ€å°çš„æ–‡ä»¶æ•°
     open_file_cache_min_uses 2;
-    #Ö¸¶¨ÁËµ±ËÑË÷Ò»¸öÎÄ¼şÊ±ÊÇ·ñ»º´æ´íÎóĞÅÏ¢£¬Ò²°üÀ¨ÔÙ´Î¸øÅäÖÃÖĞÌí¼ÓÎÄ¼ş
+    #æŒ‡å®šäº†å½“æœç´¢ä¸€ä¸ªæ–‡ä»¶æ—¶æ˜¯å¦ç¼“å­˜é”™è¯¯ä¿¡æ¯ï¼Œä¹ŸåŒ…æ‹¬å†æ¬¡ç»™é…ç½®ä¸­æ·»åŠ æ–‡ä»¶
     open_file_cache_errors on; 
  
-    #ÉèÖÃÔÊĞí¿Í»§¶ËÇëÇóµÄ×î´óµÄµ¥¸öÎÄ¼ş×Ö½ÚÊı
+    #è®¾ç½®å…è®¸å®¢æˆ·ç«¯è¯·æ±‚çš„æœ€å¤§çš„å•ä¸ªæ–‡ä»¶å­—èŠ‚æ•°
     client_max_body_size 30M;
-    #ÉèÖÃ¿Í»§¶ËÇëÇóÖ÷Ìå¶ÁÈ¡³¬Ê±Ê±¼ä
+    #è®¾ç½®å®¢æˆ·ç«¯è¯·æ±‚ä¸»ä½“è¯»å–è¶…æ—¶æ—¶é—´
     client_body_timeout 10;
-    #ÉèÖÃ¿Í»§¶ËÇëÇóÍ·¶ÁÈ¡³¬Ê±Ê±¼ä
+    #è®¾ç½®å®¢æˆ·ç«¯è¯·æ±‚å¤´è¯»å–è¶…æ—¶æ—¶é—´
     client_header_timeout 10;
-    #Ö¸¶¨À´×Ô¿Í»§¶ËÇëÇóÍ·µÄheaderbuffer´óĞ¡
+    #æŒ‡å®šæ¥è‡ªå®¢æˆ·ç«¯è¯·æ±‚å¤´çš„headerbufferå¤§å°
     client_header_buffer_size 32k;
-    #ÉèÖÃ¿Í»§¶ËÁ¬½Ó±£³Ö»î¶¯µÄ³¬Ê±Ê±¼ä
+    #è®¾ç½®å®¢æˆ·ç«¯è¿æ¥ä¿æŒæ´»åŠ¨çš„è¶…æ—¶æ—¶é—´
     keepalive_timeout 60;
-    #¹Ø±Õ²»ÏìÓ¦µÄ¿Í»§¶ËÁ¬½Ó
+    #å…³é—­ä¸å“åº”çš„å®¢æˆ·ç«¯è¿æ¥
     reset_timedout_connection on;
-    #ÉèÖÃÏìÓ¦¿Í»§¶ËµÄ³¬Ê±Ê±¼ä
+    #è®¾ç½®å“åº”å®¢æˆ·ç«¯çš„è¶…æ—¶æ—¶é—´
     send_timeout 10;
-    #¿ªÆô¸ßĞ§ÎÄ¼ş´«ÊäÄ£Ê½
+    #å¼€å¯é«˜æ•ˆæ–‡ä»¶ä¼ è¾“æ¨¡å¼
     sendfile on;
-    #¸æËßnginxÔÚÒ»¸öÊı¾İ°üÀï·¢ËÍËùÓĞÍ·ÎÄ¼ş£¬¶ø²»Ò»¸ö½ÓÒ»¸öµÄ·¢ËÍ
+    #å‘Šè¯‰nginxåœ¨ä¸€ä¸ªæ•°æ®åŒ…é‡Œå‘é€æ‰€æœ‰å¤´æ–‡ä»¶ï¼Œè€Œä¸ä¸€ä¸ªæ¥ä¸€ä¸ªçš„å‘é€
     tcp_nopush on;
-    #¸æËßnginx²»Òª»º´æÊı¾İ£¬¶øÊÇÒ»¶ÎÒ»¶ÎµÄ·¢ËÍ
+    #å‘Šè¯‰nginxä¸è¦ç¼“å­˜æ•°æ®ï¼Œè€Œæ˜¯ä¸€æ®µä¸€æ®µçš„å‘é€
     tcp_nodelay on;
-    #ÉèÖÃÓÃÓÚ±£´æ¸÷ÖÖkey£¨±ÈÈçµ±Ç°Á¬½ÓÊı£©µÄ¹²ÏíÄÚ´æµÄ²ÎÊı
+    #è®¾ç½®ç”¨äºä¿å­˜å„ç§keyï¼ˆæ¯”å¦‚å½“å‰è¿æ¥æ•°ï¼‰çš„å…±äº«å†…å­˜çš„å‚æ•°
     limit_conn_zone $binary_remote_addr zone=addr:5m; 
-    #¸ø¶¨µÄkeyÉèÖÃ×î´óÁ¬½ÓÊı£¬ÔÊĞíÃ¿Ò»¸öIPµØÖ·×î¶àÍ¬Ê±´ò¿ªÓĞ100¸öÁ¬½Ó
+    #ç»™å®šçš„keyè®¾ç½®æœ€å¤§è¿æ¥æ•°ï¼Œå…è®¸æ¯ä¸€ä¸ªIPåœ°å€æœ€å¤šåŒæ—¶æ‰“å¼€æœ‰100ä¸ªè¿æ¥
     limit_conn addr 100; 
  
-    #FastCGIÏà¹Ø²ÎÊıÊÇÎªÁË¸ÄÉÆÍøÕ¾µÄĞÔÄÜ£º¼õÉÙ×ÊÔ´Õ¼ÓÃ£¬Ìá¸ß·ÃÎÊËÙ¶È
+    #FastCGIç›¸å…³å‚æ•°æ˜¯ä¸ºäº†æ”¹å–„ç½‘ç«™çš„æ€§èƒ½ï¼šå‡å°‘èµ„æºå ç”¨ï¼Œæé«˜è®¿é—®é€Ÿåº¦
     fastcgi_buffers 256 16k;
     fastcgi_buffer_size 128k;
     fastcgi_connect_timeout 3s;
     fastcgi_send_timeout 120s;
     fastcgi_read_timeout 120s;
     server_names_hash_bucket_size 128;
-    #²»ÔÚerror_logÖĞ¼ÇÂ¼²»´æÔÚµÄ´íÎó
+    #ä¸åœ¨error_logä¸­è®°å½•ä¸å­˜åœ¨çš„é”™è¯¯
     log_not_found off;
-    #¹Ø±ÕÔÚ´íÎóÒ³ÃæÖĞµÄnginx°æ±¾Êı×Ö£¬Ìá¸ß°²È«ĞÔ
+    #å…³é—­åœ¨é”™è¯¯é¡µé¢ä¸­çš„nginxç‰ˆæœ¬æ•°å­—ï¼Œæé«˜å®‰å…¨æ€§
     #server_tag Apache;
     server_tokens off;
     #tengine
     server_tag off;
     server_info off;
 
-    #Ìí¼ÓĞéÄâÖ÷»úµÄÅäÖÃÎÄ¼ş
+    #æ·»åŠ è™šæ‹Ÿä¸»æœºçš„é…ç½®æ–‡ä»¶
     include vhosts/*.conf;
 
-    #¸ºÔØ¾ùºâÅäÖÃ£¨ÔİÊ±ÂÔ¹ı£©
+    #è´Ÿè½½å‡è¡¡é…ç½®ï¼ˆæš‚æ—¶ç•¥è¿‡ï¼‰
     #upstream test.com
 
-    #Éè¶¨ĞéÄâÖ÷»úÅäÖÃ
+    #è®¾å®šè™šæ‹Ÿä¸»æœºé…ç½®
     server {
-        #ÕìÌı80¶Ë¿Ú
+        #ä¾¦å¬80ç«¯å£
         listen       80;
-        #¶¨ÒåÊ¹ÓÃlocalhost·ÃÎÊ
+        #å®šä¹‰ä½¿ç”¨localhostè®¿é—®
         server_name  localhost;
-        #¶¨ÒåÊ×Ò³Ë÷ÒıÎÄ¼şµÄÃû³Æ
+        #å®šä¹‰é¦–é¡µç´¢å¼•æ–‡ä»¶çš„åç§°
         index index.html index.htm index.php;
-        #¶¨Òå·şÎñÆ÷µÄÄ¬ÈÏÍøÕ¾¸ùÄ¿Â¼Î»ÖÃ
+        #å®šä¹‰æœåŠ¡å™¨çš„é»˜è®¤ç½‘ç«™æ ¹ç›®å½•ä½ç½®
         root    /app/data/localhost/;
  
-        #¶¨Òå´íÎóÌáÊ¾Ò³Ãæ
+        #å®šä¹‰é”™è¯¯æç¤ºé¡µé¢
         error_page  404              /404.html;
         error_page  500 502 503 504  /50x.html;
         location = /50x.html {
             root   html;
         }
  
-        #PHP ½Å±¾ÇëÇóÈ«²¿×ª·¢µ½ FastCGI´¦Àí. Ê¹ÓÃFastCGIÄ¬ÈÏÅäÖÃ.     
+        #PHP è„šæœ¬è¯·æ±‚å…¨éƒ¨è½¬å‘åˆ° FastCGIå¤„ç†. ä½¿ç”¨FastCGIé»˜è®¤é…ç½®.     
         location ~ .*\.(php|php5)?$ {
             fastcgi_pass   127.0.0.1:9000;
             fastcgi_index  index.php;
             include        fastcgi.conf;
         }
         
-        #¾²Ì¬ÎÄ¼ş
+        #é™æ€æ–‡ä»¶
         location ~ .*\.(gif|jpg|jpeg|png|bmp|swf|ico)$
         {
-            #¹ıÆÚ30Ìì£¬Æµ·±¸üĞÂ¿ÉÉèÖÃĞ¡Ò»µã
+            #è¿‡æœŸ30å¤©ï¼Œé¢‘ç¹æ›´æ–°å¯è®¾ç½®å°ä¸€ç‚¹
             expires      30d;
         }
  
         location ~ .*\.(js|css)?$
         {
-            #¹ıÆÚ1Ğ¡Ê±£¬²»¸üĞÂ¿ÉÉèÖÃ´óÒ»Ğ©
+            #è¿‡æœŸ1å°æ—¶ï¼Œä¸æ›´æ–°å¯è®¾ç½®å¤§ä¸€äº›
             expires      1h;
         }
-        #½ûÖ¹·ÃÎÊ
+        #ç¦æ­¢è®¿é—®
         location ~ /\. {
             deny all;
         }
@@ -481,7 +483,7 @@ http {
 
 ```
 
->¼ò»¯ÅäÖÃÎÄ¼ş
+>ç®€åŒ–é…ç½®æ–‡ä»¶
 vi /app/local/nginx/conf/nginx.conf
 
 ``` bash
@@ -547,7 +549,7 @@ http
 
 ```
 
->·ÖÀëserverĞ´Èëvhosts
+>åˆ†ç¦»serverå†™å…¥vhosts
 mkdir -p  /app/local/nginx/conf/vhosts/
 vi /app/local/nginx/conf/vhosts/localhost.conf
 
@@ -598,22 +600,22 @@ server {
 
 
 ``` bash
-#¼ì²éÓï·¨
+#æ£€æŸ¥è¯­æ³•
 /app/local/nginx/sbin/nginx -t
 # ./nginx -t
 the configuration file /app/local/nginx/conf/nginx.conf syntax is ok
 configuration file /app/local/nginx/conf/nginx.conf test is successful
 
-#²âÊÔÓÃÀı
+#æµ‹è¯•ç”¨ä¾‹
 mkdir -p /app/data/localhost
 chmod +w /app/data/localhost
 echo "<?php phpinfo();?>" > /app/data/localhost/phpinfo.php
 chown -R www:www /app/data/localhost
 
-#ÉèÖÃnginxÏµÍ³±äÁ¿
+#è®¾ç½®nginxç³»ç»Ÿå˜é‡
 echo 'export PATH=$PATH:/app/local/nginx/sbin'>>/etc/profile && source /etc/profile
 
-#²âÊÔ·ÃÎÊ
+#æµ‹è¯•è®¿é—®
 curl -I http://localhost
 
 HTTP/1.1 200 OK
@@ -626,9 +628,9 @@ X-Powered-By: PHP/5.6.11
 
 ```
 
-### Ìí¼ÓTengineµ½·şÎñ
+### æ·»åŠ Tengineåˆ°æœåŠ¡
 
->ÅäÖÃ·şÎñºó±ãÓÚÍ³Ò»¹ÜÀí
+>é…ç½®æœåŠ¡åä¾¿äºç»Ÿä¸€ç®¡ç†
 vi /etc/rc.d/init.d/nginx
 
 ``` bash
@@ -755,52 +757,58 @@ esac
 ```
 
 ``` bash
-#ĞŞ¸ÄÖ´ĞĞÈ¨ÏŞ
+#ä¿®æ”¹æ‰§è¡Œæƒé™
 chmod +x /etc/init.d/nginx
 ulimit -SHn 65535
 service nginx start
 
 ```
 
-## °²×°MySQL
+## å®‰è£…MySQL
 
->×¢ÒâÄ¿Â¼ºÍ×Ö·û¼¯µÈÅäÖÃÎÄ¼ş
+>æ³¨æ„ç›®å½•å’Œå­—ç¬¦é›†ç­‰é…ç½®æ–‡ä»¶ï¼Œæ¨èä½¿ç”¨InnoDBä½œä¸ºå­˜å‚¨å¼•æ“
 
 ``` bash
-#½âÑ¹mysql
+#è§£å‹mysql
 mkdir -p /app/local/mysql
 tar zxvf mysql-5.6.25-linux-glibc2.5-x86_64.tar.gz
 mv mysql-5.6.25-linux-glibc2.5-x86_64/* /app/local/mysql
-#Ôö¼ÓmysqlÓÃ»§×é
+#å¢åŠ mysqlç”¨æˆ·ç»„
 groupadd mysql
 useradd -g mysql mysql
 mkdir -p /app/data/mysql/data/
 mkdir -p /app/data/mysql/binlog/
 mkdir -p /app/data/mysql/relaylog/
 chown -R mysql:mysql /app/data/mysql/
- #°²×°mysql
+ #å®‰è£…mysql
 /app/local/mysql/scripts/mysql_install_db --basedir=/app/local/mysql --datadir=/app/data/mysql/data --user=mysql
-#ĞŞ¸Ämysqld_safeÅäÖÃÂ·¾¶
+#ä¿®æ”¹mysqld_safeé…ç½®è·¯å¾„
 sed -i "s#/usr/local/mysql#/app/local/mysql#g" /app/local/mysql/bin/mysqld_safe
 
 ```
 
 ``` bash
 
-#ĞŞ¸Ämy.cnfÅäÖÃÎÄ¼ş
+#ä¿®æ”¹my.cnfé…ç½®æ–‡ä»¶
 vi /app/local/mysql/my.cnf
 
+#MySQLå®¢æˆ·ç«¯
 [client]
 character-set-server = utf8
 port = 3306
 socket = /tmp/mysql.sock
 
+
 [mysql]
 #prompt="(\u:HOSTNAME:)[\d]> "
+#mysqlæç¤ºç¬¦ä¸­æ˜¾ç¤ºå½“å‰ç”¨æˆ·ã€æ•°æ®åº“ã€æ—¶é—´ç­‰ä¿¡æ¯
 prompt="\u@\h \R:\m:\s [\d]> "
+#å–æ¶ˆè‡ªåŠ¨è¡¥å…¨
 no-auto-rehash
 
+#MySQLæœåŠ¡ç«¯ 
 [mysqld]
+#å”¯ä¸€çš„æœåŠ¡æ ‡è¯†å·ï¼Œä¸»ä»åŒæ­¥ä¼šæ¶‰åŠ
 server-id = 1
 port = 3306
 user = mysql
@@ -811,67 +819,120 @@ log-error = /app/data/mysql/mysql_error.log
 pid-file = /app/data/mysql/mysql.pid
 sql_mode=NO_ENGINE_SUBSTITUTION,STRICT_TRANS_TABLES
 
+#é»˜è®¤å­˜å‚¨å¼•æ“
 default-storage-engine = InnoDB
+#è®¾ç½®æœ€å¤§å¹¶å‘è¿æ¥æ•°ï¼Œå¦‚æœå‰ç«¯ç¨‹åºæ˜¯PHPï¼Œå¯é€‚å½“åŠ å¤§ï¼Œä½†ä¸å¯è¿‡å¤§ã€‚å¦‚æœå‰ç«¯ç¨‹åºé‡‡ç”¨è¿æ¥æ± ï¼Œå¯é€‚å½“è°ƒå°ï¼Œé¿å…è¿æ¥æ•°è¿‡å¤§
 max_connections = 512
+#æœ€å¤§è¿æ¥é”™è¯¯æ¬¡æ•°ï¼Œå¯é€‚å½“åŠ å¤§ï¼Œé˜²æ­¢é¢‘ç¹è¿æ¥é”™è¯¯åï¼Œå‰ç«¯hostè¢«mysqlæ‹’ç»æ‰
 max_connect_errors = 100000
+#æ‰€æœ‰çº¿ç¨‹æ‰€æ‰“å¼€è¡¨çš„æ•°é‡
 table_open_cache = 512
+#ä¸å…è®¸å¤–éƒ¨æ–‡ä»¶çº§åˆ«çš„é”. æ‰“å¼€æ–‡ä»¶é”ä¼šå¯¹æ€§èƒ½é€ æˆè´Ÿé¢å½±å“
 external-locking = FALSE
+#æœåŠ¡æ‰€èƒ½å¤„ç†çš„è¯·æ±‚åŒ…çš„æœ€å¤§å¤§å°ä»¥åŠæœåŠ¡æ‰€èƒ½å¤„ç†çš„æœ€å¤§çš„è¯·æ±‚å¤§å°
 max_allowed_packet = 32M
+#å¯ç”¨æ…¢æŸ¥è¯¢æ—¥å¿—
 slow_query_log = 1
 slow_query_log_file = /app/data/mysql/slow.log
-
+#MySQLæ‰“å¼€çš„æ–‡ä»¶æè¿°ç¬¦é™åˆ¶
 open_files_limit = 10240
+#æ“ä½œç³»ç»Ÿåœ¨ç›‘å¬é˜Ÿåˆ—ä¸­æ‰€èƒ½ä¿æŒçš„è¿æ¥æ•°
 back_log = 600
-join_buffer_size = 2M
+#æ¯ä¸ªè¿æ¥éƒ½ä¼šåˆ†é…çš„ä¸€äº›æ’åºã€è¿æ¥ç­‰ç¼“å†²
+sort_buffer_size = 16M
+join_buffer_size = 16M
+read_buffer_size = 16M
 read_rnd_buffer_size = 16M
-sort_buffer_size = 2M
+#åœ¨cacheä¸­ä¿ç•™å¤šå°‘çº¿ç¨‹ç”¨äºé‡ç”¨
 thread_cache_size = 300
+#æŸ¥è¯¢ç¼“å†²     
 query_cache_size = 128M
-query_cache_limit = 2M
+#åªæœ‰å°äºæ­¤è®¾å®šå€¼çš„ç»“æœæ‰ä¼šè¢«ç¼“å†²     
+query_cache_limit = 4M
+#è®¾ç½®æŸ¥è¯¢ç¼“å­˜åˆ†é…å†…å­˜çš„æœ€å°å•ä½
 query_cache_min_res_unit = 2k
-thread_stack = 192K
+#çº¿ç¨‹ä½¿ç”¨çš„å †å¤§å°
+thread_stack = 512K
+#è®¾ç½®äº‹åŠ¡éš”ç¦»çº§åˆ«ä¸º READ-COMMITEDï¼Œæé«˜äº‹åŠ¡æ•ˆç‡ï¼Œé€šå¸¸éƒ½æ»¡è¶³äº‹åŠ¡ä¸€è‡´æ€§è¦æ±‚
 transaction_isolation = READ-COMMITTED
-tmp_table_size = 246M
-max_heap_table_size = 246M
+#ä¸´æ—¶è¡¨çš„æœ€å¤§å¤§å°
+tmp_table_size = 256M
+#ç‹¬ç«‹çš„å†…å­˜è¡¨æ‰€å…è®¸çš„æœ€å¤§å®¹é‡
+max_heap_table_size = 256M
+#è®¾ç½®æ…¢æŸ¥è¯¢é˜€å€¼
 long_query_time = 3
+#è¡¨ç¤ºslaveå°†å¤åˆ¶äº‹ä»¶å†™è¿›è‡ªå·±çš„äºŒè¿›åˆ¶æ—¥å¿—
 log-slave-updates
+#æ‰“å¼€äºŒè¿›åˆ¶æ—¥å¿—åŠŸèƒ½
 log-bin = /app/data/mysql/binlog/binlog
 sync_binlog = 1
+#åœ¨ä¸€ä¸ªäº‹åŠ¡ä¸­binlogä¸ºäº†è®°å½•SQLçŠ¶æ€æ‰€æŒæœ‰çš„cacheå¤§å°  
 binlog_cache_size = 4M
+#è®¾ç½®æ··åˆæ¨¡å¼
 binlog_format = MIXED
+#è¡¨ç¤ºçš„æ˜¯binlogèƒ½å¤Ÿä½¿ç”¨çš„æœ€å¤§cache å†…å­˜å¤§å°
 max_binlog_cache_size = 8M
+#binlogæœ€å¤§å€¼
 max_binlog_size = 1G
+#å¯ç”¨ä¸­ç»§æ—¥å¿—
 relay-log-index = /app/data/mysql/relaylog/relaylog
 relay-log-info-file = /app/data/mysql/relaylog/relaylog
 relay-log = /app/data/mysql/relaylog/relaylog
+#è®¾ç½®äº†åªä¿ç•™7å¤©binlog
 expire_logs_days = 7
+
+#MyISAM ç›¸å…³é€‰é¡¹
+
+#å…³é”®è¯ç¼“å†²çš„å¤§å°, ä¸€èˆ¬ç”¨æ¥ç¼“å†²MyISAMè¡¨çš„ç´¢å¼•å—
 key_buffer_size = 128M
-read_buffer_size = 1M
-read_rnd_buffer_size = 16M
-bulk_insert_buffer_size = 64M
-myisam_sort_buffer_size = 128M
+#æ’åºç¼“å­˜
+read_rnd_buffer_size = 64M
+#é™åˆ¶æ¯ä¸ªè¿›ç¨‹ä¸­ç¼“å†²æ ‘çš„å­—èŠ‚æ•°
+bulk_insert_buffer_size = 256M
+#MyISAMè¡¨å‘ç”Ÿå˜åŒ–æ—¶é‡æ–°æ’åºæ‰€éœ€çš„ç¼“å†²
+myisam_sort_buffer_size = 256M
+#MySQLé‡å»ºç´¢å¼•æ—¶æ‰€å…è®¸çš„æœ€å¤§ä¸´æ—¶æ–‡ä»¶çš„å¤§å°
 myisam_max_sort_file_size = 10G
+#å¦‚æœä¸€ä¸ªè¡¨æ‹¥æœ‰è¶…è¿‡ä¸€ä¸ªç´¢å¼•, MyISAM å¯ä»¥é€šè¿‡å¹¶è¡Œæ’åºä½¿ç”¨è¶…è¿‡ä¸€ä¸ªçº¿ç¨‹å»ä¿®å¤ä»–ä»¬
 myisam_repair_threads = 1
+#è‡ªåŠ¨æ£€æŸ¥å’Œä¿®å¤æ²¡æœ‰é€‚å½“å…³é—­çš„ MyISAM è¡¨
 myisam_recover
 
-innodb_additional_mem_pool_size = 16M
-innodb_buffer_pool_size = 256M
-innodb_data_file_path = ibdata1:1024M:autoextend
-innodb_flush_log_at_trx_commit = 1
-innodb_log_buffer_size = 16M
-innodb_log_file_size = 256M
-innodb_log_files_in_group = 2
-innodb_max_dirty_pages_pct = 50
-innodb_file_per_table = 1
-innodb_locks_unsafe_for_binlog = 0
+#InnoDB ç›¸å…³é€‰é¡¹
 
+#InnoDBå­˜å‚¨æ•°æ®å­—å…¸ã€å†…éƒ¨æ•°æ®ç»“æ„çš„ç¼“å†²æ± ï¼Œ16MB å·²ç»è¶³å¤Ÿå¤§äº†     
+innodb_additional_mem_pool_size = 16M
+#InnoDBç”¨äºç¼“å­˜æ•°æ®ã€ç´¢å¼•ã€é”ã€æ’å…¥ç¼“å†²ã€æ•°æ®å­—å…¸ç­‰
+#å¦‚æœæ˜¯ä¸“ç”¨çš„DBæœåŠ¡å™¨ï¼Œä¸”ä»¥InnoDBå¼•æ“ä¸ºä¸»çš„åœºæ™¯ï¼Œé€šå¸¸å¯è®¾ç½®ç‰©ç†å†…å­˜çš„50%
+#å¦‚æœæ˜¯éä¸“ç”¨DBæœåŠ¡å™¨ï¼Œå¯ä»¥å…ˆå°è¯•è®¾ç½®æˆå†…å­˜çš„1/4ï¼Œå¦‚æœæœ‰é—®é¢˜å†è°ƒæ•´
+innodb_buffer_pool_size = 4G
+#InnoDBå…±äº«è¡¨ç©ºé—´åˆå§‹åŒ–å¤§å°ï¼Œé»˜è®¤æ˜¯ 10MBï¼Œä¹Ÿéå¸¸å‘Xï¼Œæ”¹æˆ 1GBï¼Œå¹¶ä¸”è‡ªåŠ¨æ‰©å±•
+innodb_data_file_path = ibdata1:1G:autoextend
+#å¦‚æœå°†æ­¤å‚æ•°è®¾ç½®ä¸º1ï¼Œå°†åœ¨æ¯æ¬¡æäº¤äº‹åŠ¡åå°†æ—¥å¿—å†™å…¥ç£ç›˜ï¼Œèƒ½è¾ƒå¥½ä¿æŠ¤æ•°æ®å¯é æ€§ã€‚ä¸ºæä¾›æ€§èƒ½å¯ä»¥è®¾ç½®ä¸º0æˆ–2ï¼Œä½†è¦æ‰¿æ‹…åœ¨å‘ç”Ÿæ•…éšœæ—¶ä¸¢å¤±æ•°æ®çš„é£é™©
+innodb_flush_log_at_trx_commit = 1
+#InnoDBçš„log bufferï¼Œé€šå¸¸è®¾ç½®ä¸º 64MB å°±è¶³å¤Ÿäº†
+innodb_log_buffer_size = 64M
+#InnoDB redo logå¤§å°ï¼Œé€šå¸¸è®¾ç½®256MB å°±è¶³å¤Ÿäº†
+innodb_log_file_size = 256M
+#InnoDB redo logæ–‡ä»¶ç»„ï¼Œé€šå¸¸è®¾ç½®ä¸º 2 å°±è¶³å¤Ÿäº†
+innodb_log_files_in_group = 2
+#Buffer_Poolä¸­Dirty_Pageæ‰€å çš„æ•°é‡ï¼Œç›´æ¥å½±å“InnoDBçš„å…³é—­æ—¶é—´
+innodb_max_dirty_pages_pct = 90
+#å¯ç”¨InnoDBçš„ç‹¬ç«‹è¡¨ç©ºé—´æ¨¡å¼ï¼Œä¾¿äºç®¡ç†
+innodb_file_per_table = 1
+#æ§åˆ¶innodbæ˜¯å¦å¯¹gapåŠ é”
+innodb_locks_unsafe_for_binlog = 0
+#è®¾ç½®è¿æ¥è¶…æ—¶é˜€å€¼ï¼Œå¦‚æœå‰ç«¯ç¨‹åºé‡‡ç”¨çŸ­è¿æ¥ï¼Œå»ºè®®ç¼©çŸ­è¿™2ä¸ªå€¼
+#å¦‚æœå‰ç«¯ç¨‹åºé‡‡ç”¨é•¿è¿æ¥ï¼Œå¯ç›´æ¥æ³¨é‡Šæ‰è¿™ä¸¤ä¸ªé€‰é¡¹ï¼Œæ˜¯ç”¨é»˜è®¤é…ç½®(8å°æ—¶)
 interactive_timeout = 120
 wait_timeout = 120
- 
+#ä¸å†è¿›è¡Œåè§£æ(ipä¸åè§£æˆåŸŸå)ï¼Œè¿™æ ·å¯ä»¥åŠ å¿«æ•°æ®åº“çš„ååº”æ—¶é—´
 skip-name-resolve
+#ä¸»ä»å¤åˆ¶è·³è¿‡é”™è¯¯
 slave-skip-errors = 1032,1062,126,1114,1146,1048,1396
 
 [mysqldump]
+#ä¸è¦åœ¨å°†å†…å­˜ä¸­çš„æ•´ä¸ªç»“æœå†™å…¥ç£ç›˜ä¹‹å‰ç¼“å­˜. åœ¨å¯¼å‡ºéå¸¸å·¨å¤§çš„è¡¨æ—¶éœ€è¦æ­¤é¡¹
 quick
 max_allowed_packet = 32M
 
@@ -879,7 +940,7 @@ max_allowed_packet = 32M
 
 ``` bash
 
-#Ìí¼Ómysqlµ½·şÎñ
+#æ·»åŠ mysqlåˆ°æœåŠ¡
 vi /etc/rc.d/init.d/mysqld
 
 #!/bin/sh
@@ -1213,45 +1274,56 @@ exit 0
 ```
 
 ``` bash
-#ĞŞ¸ÄÈ¨ÏŞ
+#ä¿®æ”¹æƒé™
 chmod +x /etc/init.d/mysqld
 service mysqld start
 
-#Ôö¼ÓMySQLÏµÍ³»·¾³±äÁ¿
+#å¢åŠ MySQLç³»ç»Ÿç¯å¢ƒå˜é‡
 echo 'export PATH=$PATH:/app/local/mysql/bin'>>/etc/profile && source /etc/profile
 
-#²é¿´´íÎóÈÕÖ¾
+#æŸ¥çœ‹é”™è¯¯æ—¥å¿—
 tail -f /var/log/mysqld.log 
 
-#ÓÃrootÕË»§µÇÂ¼²¢×÷¼òµ¥µÄ°²È«ÉèÖÃ
+#ç”¨rootè´¦æˆ·ç™»å½•å¹¶ä½œç®€å•çš„å®‰å…¨è®¾ç½®
 /app/local/mysql/bin/mysql -uroot -p
-Ö±½Ó»Ø³µ¿ÕÃÜÂë
+ç›´æ¥å›è½¦ç©ºå¯†ç 
 
 ```
 
 ``` sql
-#½øÈëÊı¾İ¿â
+#è¿›å…¥æ•°æ®åº“
 use mysql;
-#ÉèÖÃrootÃÜÂë
+#è®¾ç½®rootå¯†ç 
 UPDATE mysql.user SET Password=password('root') WHERE User='root';
-#Çå³ırootÃÜÂë
+#æ¸…é™¤rootå¯†ç 
 update user set password='' where user='root';
-#É¾³ıÎŞÃûÓÃ»§
+#åˆ é™¤æ— åç”¨æˆ·
 DELETE FROM mysql.user WHERE User='';
-#É¾³ırootÔ¶³Ì·ÃÎÊ£¨¿ÉÑ¡£©
+#åˆ é™¤rootè¿œç¨‹è®¿é—®ï¼ˆå¯é€‰ï¼‰
 #DELETE FROM mysql.user WHERE User='root' AND Host NOT IN ('localhost', '127.0.0.1', '::1');
-#É¾³ı¡°test¡±Êı¾İ¿â
+#åˆ é™¤â€œtestâ€æ•°æ®åº“
 DROP database test;
-#ÔÊĞíÔ¶³Ì·ÃÎÊ
+#å…è®¸è¿œç¨‹è®¿é—®
 update user set host='%' where user='root' AND host='localhost';
-#²é¿´ËùÓĞÓÃ»§È¨ÏŞ
+#æŸ¥çœ‹æ‰€æœ‰ç”¨æˆ·æƒé™
 SELECT DISTINCT CONCAT('User: ''',user,'''@''',host,''';') AS query FROM mysql.user;
-#Á¢¼´ÉúĞ§²¢ÍË³öMYSQLÃüÁî´°Ìå
+#ç«‹å³ç”Ÿæ•ˆå¹¶é€€å‡ºMYSQLå‘½ä»¤çª—ä½“
 FLUSH PRIVILEGES;QUIT;
+
+#åˆ›å»ºæ•°æ®åº“
+create database ooxx;
+#åˆ›å»ºç”¨æˆ·
+create user ooxx@'%' identified by 'ooxx';
+#å¯¹ç”¨æˆ·æˆæƒ
+grant all privileges on ooxx.* to ooxx;
+#åˆ·æ–°MySQLçš„ç³»ç»Ÿæƒé™ç›¸å…³è¡¨
+flush privileges;
+#æŸ¥çœ‹æ‰€æœ‰ç”¨æˆ·æƒé™
+SELECT DISTINCT CONCAT('User: ''',user,'''@''',host,''';') AS query FROM mysql.user;
 
 ```
 
-## °²×°Apache
+## å®‰è£…Apache
 
 ``` bash
 cd /app/local
@@ -1267,11 +1339,11 @@ make && make install
 
 vi /app/local/apache/conf/httpd.conf
 
-#ĞŞ¸ÄÖ÷»úÃû
+#ä¿®æ”¹ä¸»æœºå
 ServerName localhost:80
-#²éÕÒAddType application/x-gzip .gz .tgz,ÔÚ¸ÃĞĞÏÂÃæÌí¼Ó
+#æŸ¥æ‰¾AddType application/x-gzip .gz .tgz,åœ¨è¯¥è¡Œä¸‹é¢æ·»åŠ 
 AddType application/x-httpd-php .php
-#²éÕÒDirectoryIndex index.html °Ñ¸ÃĞĞĞŞ¸Ä³É
+#æŸ¥æ‰¾DirectoryIndex index.html æŠŠè¯¥è¡Œä¿®æ”¹æˆ
 DirectoryIndex index.html index.htm index.php
 
 /app/local/apache/bin/apachectl -t
@@ -1280,27 +1352,27 @@ cp /app/local/apache/bin/apachectl /etc/init.d/httpd
 
 ```
 
-## °²×°PHP
+## å®‰è£…PHP
 
-### PHP»ù´¡»·¾³
+### PHPåŸºç¡€ç¯å¢ƒ
 
 ``` bash
-#yum°²×°»òÕßÊ¹ÓÃÏÂÃæÔ´°ü±àÒë°²×°
+#yumå®‰è£…æˆ–è€…ä½¿ç”¨ä¸‹é¢æºåŒ…ç¼–è¯‘å®‰è£…
 yum install libmcrypt libmcrypt-devel mcrypt mhash
 
-#ÏÂÔØµØÖ·
+#ä¸‹è½½åœ°å€
 http://sourceforge.net/projects/mcrypt/files/Libmcrypt/
 http://sourceforge.net/projects/mcrypt/files/MCrypt/
 http://sourceforge.net/projects/mhash/files/mhash/
 
-#°²×°Libmcrypt
+#å®‰è£…Libmcrypt
 tar -zxvf libmcrypt-2.5.8.tar.gz
 cd libmcrypt-2.5.8
 ./configure
 make && make install
 cd ../
 
-3.°²×°mhash
+3.å®‰è£…mhash
 
 tar -zxvf mhash-0.9.9.9.tar.gz
 cd mhash-0.9.9.9
@@ -1308,7 +1380,7 @@ cd mhash-0.9.9.9
 make && make install
 cd ../
 
-4.°²×°mcrypt
+4.å®‰è£…mcrypt
 
 tar -zxvf mcrypt-2.6.8.tar.gz
 cd mcrypt-2.6.8
@@ -1316,9 +1388,9 @@ LD_LIBRARY_PATH=/usr/local/lib ./configure
 make && make install
 cd ../
 
-### °²×°PHP
+### å®‰è£…PHP
 
->extension¸ù¾İĞèÒª¶¨ÖÆ£¬ĞÂÔöµÄOPcache½¨ÒéÔİÊ±²»Òª¿ªÆô
+>extensionæŒ‰éœ€å®šåˆ¶ï¼Œæ”¯æŒphpizeåŠ¨æ€å¢åŠ ï¼Œæ–°å¢çš„OPcacheå»ºè®®é…Œæƒ…å¼€å¯
 
 ``` bash
 tar zxvf php-5.5.27.tar.gz
@@ -1340,19 +1412,19 @@ cd php-5.5.27
 
 make && make install
 
-#ÅäÖÃphp.ini
+#é…ç½®php.ini
 cp php.ini-development /app/local/php/etc/php.ini
 
-#ÉèÖÃÊ±Çø
+#è®¾ç½®æ—¶åŒº
 sed -i "s#;date.timezone =#date.timezone = Asia/Shanghai#g" /app/local/php/etc/php.ini
-#·ÀÖ¹nginxÎÄ¼şÀàĞÍ´íÎó½âÎöÂ©¶´
+#é˜²æ­¢nginxæ–‡ä»¶ç±»å‹é”™è¯¯è§£ææ¼æ´
 sed -i "s#;cgi.fix_pathinfo=1#cgi.fix_pathinfo=0#g" /app/local/php/etc/php.ini
-#½ûÖ¹ÏÔÊ¾php°æ±¾µÄĞÅÏ¢
+#ç¦æ­¢æ˜¾ç¤ºphpç‰ˆæœ¬çš„ä¿¡æ¯
 sed -i "s#expose_php = On#expose_php = Off#g" /app/local/php/etc/php.ini
-#½ûÓÃÎ£ÏÕº¯Êı£¨¿ÉÑ¡£©
+#ç¦ç”¨å±é™©å‡½æ•°ï¼ˆå¯é€‰ï¼‰
 #sed -i "s#disable_functions =#disable_functions = exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source#g" /app/local/php/etc/php.ini
 
-#enable-opcacheºóÉèÖÃ£¨¿ÉÑ¡£©
+#enable-opcacheåè®¾ç½®ï¼ˆå¯é€‰ï¼‰
 [OPcache]
 zend_extension = opcache.so
 opcache.enable=1
@@ -1364,62 +1436,62 @@ opcache.fast_shutdown=1
 opcache.enable_cli=1
 
 ```
-### ÅäÖÃphp-fpm
+### é…ç½®php-fpm
 
 ``` bash
-#±à¼­php-fpm
+#ç¼–è¾‘php-fpm
 cp /app/local/php/etc/php-fpm.conf.default /app/local/php/etc/php-fpm.conf
 vi /app/local/php/etc/php-fpm.conf
 
 [global]
-;´íÎóÈÕÖ¾
+;é”™è¯¯æ—¥å¿—
 error_log = log/php-fpm.log
-;´íÎóÈÕÖ¾¼¶±ğ
+;é”™è¯¯æ—¥å¿—çº§åˆ«
 log_level = notice
 [www]
-;php-fpm¼àÌı¶Ë¿Ú
+;php-fpmç›‘å¬ç«¯å£
 listen = 127.0.0.1:9000
-;Æô¶¯½ø³ÌµÄÕÊ»§ºÍ×é
+;å¯åŠ¨è¿›ç¨‹çš„å¸æˆ·å’Œç»„
 user = www
 group = www
-;Èç¹ûÑ¡Ôñstatic£¬ÔòÓÉpm.max_childrenÖ¸¶¨¹Ì¶¨µÄ×Ó½ø³ÌÊı¡£Èç¹ûÑ¡Ôñdynamic£¬ÔòÓÉºóÃæ3¸ö²ÎÊı¶¯Ì¬¾ö¶¨
+;å¦‚æœé€‰æ‹©staticï¼Œåˆ™ç”±pm.max_childrenæŒ‡å®šå›ºå®šçš„å­è¿›ç¨‹æ•°ã€‚å¦‚æœé€‰æ‹©dynamicï¼Œåˆ™ç”±åé¢3ä¸ªå‚æ•°åŠ¨æ€å†³å®š
 pm = dynamic
-;×Ó½ø³Ì×î´óÊı
+;å­è¿›ç¨‹æœ€å¤§æ•°
 pm.max_children = 384
-;Æô¶¯Ê±µÄ½ø³ÌÊı
+;å¯åŠ¨æ—¶çš„è¿›ç¨‹æ•°
 pm.start_servers = 20
-;±£Ö¤¿ÕÏĞ½ø³ÌÊı×îĞ¡Öµ£¬Èç¹û¿ÕÏĞ½ø³ÌĞ¡ÓÚ´ËÖµ£¬Ôò´´½¨ĞÂµÄ×Ó½ø³Ì
+;ä¿è¯ç©ºé—²è¿›ç¨‹æ•°æœ€å°å€¼ï¼Œå¦‚æœç©ºé—²è¿›ç¨‹å°äºæ­¤å€¼ï¼Œåˆ™åˆ›å»ºæ–°çš„å­è¿›ç¨‹
 pm.min_spare_servers = 5
-;±£Ö¤¿ÕÏĞ½ø³ÌÊı×î´óÖµ£¬Èç¹û¿ÕÏĞ½ø³Ì´óÓÚ´ËÖµ£¬´Ë½øĞĞÇåÀí
+;ä¿è¯ç©ºé—²è¿›ç¨‹æ•°æœ€å¤§å€¼ï¼Œå¦‚æœç©ºé—²è¿›ç¨‹å¤§äºæ­¤å€¼ï¼Œæ­¤è¿›è¡Œæ¸…ç†
 pm.max_spare_servers = 35
 
-;ÉèÖÃÃ¿¸ö×Ó½ø³ÌÖØÉúÖ®Ç°·şÎñµÄÇëÇóÊı¡£¶ÔÓÚ¿ÉÄÜ´æÔÚÄÚ´æĞ¹Â©µÄµÚÈı·½Ä£¿éÀ´ËµÊÇ·Ç³£ÓĞÓÃµÄ¡£Èç¹ûÉèÖÃÎª '0' ÔòÒ»Ö±½ÓÊÜÇëÇó¡£µÈÍ¬ÓÚ PHP_FCGI_MAX_REQUESTS »·¾³±äÁ¿¡£Ä¬ÈÏÖµ: 0¡£
+;è®¾ç½®æ¯ä¸ªå­è¿›ç¨‹é‡ç”Ÿä¹‹å‰æœåŠ¡çš„è¯·æ±‚æ•°ã€‚å¯¹äºå¯èƒ½å­˜åœ¨å†…å­˜æ³„æ¼çš„ç¬¬ä¸‰æ–¹æ¨¡å—æ¥è¯´æ˜¯éå¸¸æœ‰ç”¨çš„ã€‚å¦‚æœè®¾ç½®ä¸º '0' åˆ™ä¸€ç›´æ¥å—è¯·æ±‚ã€‚ç­‰åŒäº PHP_FCGI_MAX_REQUESTS ç¯å¢ƒå˜é‡ã€‚é»˜è®¤å€¼: 0ã€‚
 pm.max_requests = 1000
-;Ã¿¸ö×Ó½ø³ÌÏĞÖÃ¶à³¤Ê±¼ä¾Í×ÔÉ±
+;æ¯ä¸ªå­è¿›ç¨‹é—²ç½®å¤šé•¿æ—¶é—´å°±è‡ªæ€
 pm.process_idle_timeout = 10s
-;ÉèÖÃµ¥¸öÇëÇóµÄ³¬Ê±ÖĞÖ¹Ê±¼ä¡£¸ÃÑ¡Ïî¿ÉÄÜ»á¶Ôphp.iniÉèÖÃÖĞµÄ'max_execution_time'ÒòÎªÄ³Ğ©ÌØÊâÔ­ÒòÃ»ÓĞÖĞÖ¹ÔËĞĞµÄ½Å±¾ÓĞÓÃ¡£ÉèÖÃÎª '0' ±íÊ¾ 'Off'.µ±¾­³£³öÏÖ502´íÎóÊ±¿ÉÒÔ³¢ÊÔ¸ü¸Ä´ËÑ¡Ïî¡£
+;è®¾ç½®å•ä¸ªè¯·æ±‚çš„è¶…æ—¶ä¸­æ­¢æ—¶é—´ã€‚è¯¥é€‰é¡¹å¯èƒ½ä¼šå¯¹php.iniè®¾ç½®ä¸­çš„'max_execution_time'å› ä¸ºæŸäº›ç‰¹æ®ŠåŸå› æ²¡æœ‰ä¸­æ­¢è¿è¡Œçš„è„šæœ¬æœ‰ç”¨ã€‚è®¾ç½®ä¸º '0' è¡¨ç¤º 'Off'.å½“ç»å¸¸å‡ºç°502é”™è¯¯æ—¶å¯ä»¥å°è¯•æ›´æ”¹æ­¤é€‰é¡¹ã€‚
 request_terminate_timeout = 120
-;µ±Ò»¸öÇëÇó¸ÃÉèÖÃµÄ³¬Ê±Ê±¼äºó£¬¾Í»á½«¶ÔÓ¦µÄPHPµ÷ÓÃ¶ÑÕ»ĞÅÏ¢ÍêÕûĞ´Èëµ½ÂıÈÕÖ¾ÖĞ¡£ÉèÖÃÎª '0' ±íÊ¾ 'Off'
+;å½“ä¸€ä¸ªè¯·æ±‚è¯¥è®¾ç½®çš„è¶…æ—¶æ—¶é—´åï¼Œå°±ä¼šå°†å¯¹åº”çš„PHPè°ƒç”¨å †æ ˆä¿¡æ¯å®Œæ•´å†™å…¥åˆ°æ…¢æ—¥å¿—ä¸­ã€‚è®¾ç½®ä¸º '0' è¡¨ç¤º 'Off'
 request_slowlog_timeout = 3s
-;ÂıÇëÇóµÄ¼ÇÂ¼ÈÕÖ¾,ÅäºÏrequest_slowlog_timeoutÊ¹ÓÃ
+;æ…¢è¯·æ±‚çš„è®°å½•æ—¥å¿—,é…åˆrequest_slowlog_timeoutä½¿ç”¨
 slowlog = /app/local/php/var/log/php-fpm.slow.log
-;ÉèÖÃÎÄ¼ş´ò¿ªÃèÊö·ûµÄrlimitÏŞÖÆ¡£Ä¬ÈÏÖµ: ÏµÍ³¶¨ÒåÖµÄ¬ÈÏ¿É´ò¿ª¾ä±úÊÇ1024£¬¿ÉÊ¹ÓÃ ulimit -n²é¿´£¬ulimit -n 2048ĞŞ¸Ä¡£
+;è®¾ç½®æ–‡ä»¶æ‰“å¼€æè¿°ç¬¦çš„rlimité™åˆ¶ã€‚é»˜è®¤å€¼: ç³»ç»Ÿå®šä¹‰å€¼é»˜è®¤å¯æ‰“å¼€å¥æŸ„æ˜¯1024ï¼Œå¯ä½¿ç”¨ ulimit -næŸ¥çœ‹ï¼Œulimit -n 2048ä¿®æ”¹ã€‚
 rlimit_files = 65535
 
 ```
 
 ``` bash
 
-#ÉèÖÃphp»·¾³±äÁ¿
+#è®¾ç½®phpç¯å¢ƒå˜é‡
 echo 'export PATH=$PATH:/app/local/php/bin'>>/etc/profile && source /etc/profile
 touch /app/local/php/var/log/php-fpm.slow.log
 
-#Ìí¼Óphp-fpm·şÎñ
+#æ·»åŠ php-fpmæœåŠ¡
 cp /app/local/php-5.5.27/sapi/fpm/init.d.php-fpm /etc/rc.d/init.d/php-fpm
 chmod +x /etc/rc.d/init.d/php-fpm
 service php-fpm start
 
-#ÉèÖÃ¿ª»ú×Ô¶¯Æô¶¯·şÎñ
+#è®¾ç½®å¼€æœºè‡ªåŠ¨å¯åŠ¨æœåŠ¡
 vi /etc/rc.local
 
 ulimit -SHn 65535
@@ -1429,9 +1501,9 @@ service mysqld start
 
 ```
 
-### ÅäÖÃmemcache/mongo/redis
+### é…ç½®memcache/mongo/redis
 
->ÆäËüextensionÀ©Õ¹¶¼¿ÉÒÔ¶¯Ì¬Ìí¼Ó£¬Ã»ÊÂµÄ
+>å…¶å®ƒextensionæ‰©å±•éƒ½å¯ä»¥åŠ¨æ€æ·»åŠ ï¼Œæ²¡äº‹çš„
 
 ``` bash
 #memcache
@@ -1470,47 +1542,18 @@ extension=mongo.so
 [redis]  
 extension=redis.so 
 
-#ÖØÆôÉúĞ§
+#é‡å¯ç”Ÿæ•ˆ
 service php-fpm restart
 php -i | grep php.ini
 php -m
 
 ```
 
-## ×Ô¶¯»¯²¿Êğ
+## è‡ªåŠ¨åŒ–éƒ¨ç½²
 
->·şÎñÆ÷µÄÉÏ´«Ä¿Â¼¿ÉÒÔ×Ô¶¨Òå£¬°²×°Ä¿Â¼Ä¬ÈÏÍ³Ò»ĞŞ¸ÄÎª/app/{local,data}£¬Ö´ĞĞ½Å±¾Îªweb.sh
+>æœåŠ¡å™¨çš„ä¸Šä¼ ç›®å½•å¯ä»¥è‡ªå®šä¹‰ï¼Œå®‰è£…ç›®å½•é»˜è®¤ç»Ÿä¸€ä¿®æ”¹ä¸º/app/{local,data}ï¼Œæ‰§è¡Œè„šæœ¬ä¸ºweb.sh
 
 ``` bash
-file://E:\QQDownload\LTMP     (2 folders, 5 files, 27.66 MB, 30.76 MB in total.)
-©¦  httpd-2.2.29.tar.gz     7.19 MB
-©¦  pcre-8.37.tar.gz     1.95 MB
-©¦  php-5.5.27.tar.gz     16.95 MB
-©¦  tengine-2.1.0.tar.gz     1.58 MB
-©¦  web.sh     4.10 KB
-©À©¤init     (1 folders, 12 files, 91.42 KB, 92.23 KB in total.)
-©¦  ©¦  allow.conf     35 bytes
-©¦  ©¦  bashrc     2.99 KB
-©¦  ©¦  deny.conf     35 bytes
-©¦  ©¦  limits.conf     1.86 KB
-©¦  ©¦  my.cnf     1.99 KB
-©¦  ©¦  mysqld     8.39 KB
-©¦  ©¦  nginx     2.22 KB
-©¦  ©¦  nginx.conf     1.34 KB
-©¦  ©¦  php-fpm     2.30 KB
-©¦  ©¦  php-fpm.conf     416 bytes
-©¦  ©¦  php.ini     67.83 KB
-©¦  ©¦  sysctl.conf     2.03 KB
-©¦  ©¸©¤vhosts     (0 folders, 1 files, 826 bytes, 826 bytes in total.)
-©¦          localhost.conf     826 bytes
-©¸©¤src     (0 folders, 6 files, 3.01 MB, 3.01 MB in total.)
-        libmcrypt-2.5.8.tar.gz     1.27 MB
-        mcrypt-2.6.8.tar.gz     460.85 KB
-        memcache-3.0.8.tgz     68.87 KB
-        mhash-0.9.9.9.tar.gz     909.61 KB
-        mongo-1.6.10.tgz     204.19 KB
-        redis-2.2.7.tgz     131.19 KB
-
 
 #web.sh
 
@@ -1575,7 +1618,7 @@ cd ../
 #tengine
 groupadd www
 useradd -g www www
-#°²×°Tengine
+#å®‰è£…Tengine
 cd $ltmp_local
 tar zxvf tengine-2.1.0.tar.gz 1> /dev/null
 cd tengine-2.1.0
@@ -1673,10 +1716,40 @@ service php-fpm start
 
 ```
 
+## GitHubæºç ä»“åº“
 
+``` bash
+file://E:\QQDownload\LTMP     (2 folders, 5 files, 27.66 MB, 30.76 MB in total.)
+â”‚  httpd-2.2.29.tar.gz     7.19 MB
+â”‚  pcre-8.37.tar.gz     1.95 MB
+â”‚  php-5.5.27.tar.gz     16.95 MB
+â”‚  tengine-2.1.0.tar.gz     1.58 MB
+â”‚  web.sh     4.10 KB
+â”œâ”€init     (1 folders, 12 files, 91.42 KB, 92.23 KB in total.)
+â”‚  â”‚  allow.conf     35 bytes
+â”‚  â”‚  bashrc     2.99 KB
+â”‚  â”‚  deny.conf     35 bytes
+â”‚  â”‚  limits.conf     1.86 KB
+â”‚  â”‚  my.cnf     1.99 KB
+â”‚  â”‚  mysqld     8.39 KB
+â”‚  â”‚  nginx     2.22 KB
+â”‚  â”‚  nginx.conf     1.34 KB
+â”‚  â”‚  php-fpm     2.30 KB
+â”‚  â”‚  php-fpm.conf     416 bytes
+â”‚  â”‚  php.ini     67.83 KB
+â”‚  â”‚  sysctl.conf     2.03 KB
+â”‚  â””â”€vhosts     (0 folders, 1 files, 826 bytes, 826 bytes in total.)
+â”‚          localhost.conf     826 bytes
+â””â”€src     (0 folders, 6 files, 3.01 MB, 3.01 MB in total.)
+        libmcrypt-2.5.8.tar.gz     1.27 MB
+        mcrypt-2.6.8.tar.gz     460.85 KB
+        memcache-3.0.8.tgz     68.87 KB
+        mhash-0.9.9.9.tar.gz     909.61 KB
+        mongo-1.6.10.tgz     204.19 KB
+        redis-2.2.7.tgz     131.19 KB
+```
 
-
-
+LTMP - https://github.com/wsgzao/LTMP
 
 
 
