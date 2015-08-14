@@ -1,4 +1,4 @@
-![](//i.v2ex.co/Up79Hq7l.jpeg)
+![](http://i.v2ex.co/Up79Hq7l.jpeg)
 
 ## 前言
 现在很多朋友都了解或者已经在使用LNMP架构，一般可以理解为Linux Shell为CentOS/RadHat/Fedora/Debian/Ubuntu/等平台安装LNMP(Nginx/MySQL/PHP)，LNMPA(Nginx/MySQL/PHP/Apache)，LAMP(Apache/MySQL/PHP)等类似的开发或生产环境。我自己是从SuSE/Oracle商业化环境走出来的，对于开源的部署方案也是在一点一点摸索，我相信其中也必然包含某些坑爹的配置。这篇文章较为详细的描述了基于LTMP架构的部署过程，之后会再考虑独立各个模块分享细节和技巧，如果大家有更合适的配置实践手册欢迎一起分享，文章中的错误和改进点也请帮忙指点下哈。
