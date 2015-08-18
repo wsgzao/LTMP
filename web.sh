@@ -15,7 +15,7 @@ cp ${ltmp_init}bashrc /etc/
 rm -rf /etc/localtime
 ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 #maildrop
-sed 's/MAILTO=root/MAILTO=""/g' /etc/crontab
+sed -i 's/MAILTO=root/MAILTO=""/g' /etc/crontab
 service crond restart
 #selinux
 setenforce 0
